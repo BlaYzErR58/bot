@@ -3,12 +3,12 @@ import os
 from emoji import emojize
 
 # токен выдается при регистрации приложения
-TOKEN = '1903805843:AAGEK_TCRKTDSwgZ7AQatn2ex74hN4lyVbU'
+TOKEN = '6661636518:AAFJ3K489OPoqG4I7VFOSc3baSX8WRqnuvw'
 # название БД
 NAME_DB = 'products.sqlite'
 # версия приложения
 VERSION = '0.0.1'
-# автор приложния
+# автор приложения
 AUTHOR = 'User'
 
 # родительская директория
